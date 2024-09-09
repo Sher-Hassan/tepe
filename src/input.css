@@ -15,3 +15,7 @@
         transform: translateX(-100%);
     }
 }
+.mobmenu.open {
+  display: flex;
+  right:0;
+}
